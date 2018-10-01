@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*This is really annoying, this assignment failed a few times. That's what I'm good at. Breaking assignments.*
